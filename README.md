@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Steps Involved](#EDA Steps and Flow)
+* [Steps Involved](#steps-involved)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -22,11 +22,11 @@ In this case study, we are analyzing complete loan data for all loans issued thr
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Steps Involved
-#### 1. Data Sourcing
-#### 2. Data Cleaning and Transformations
-#### 3. Univariate Analysis
-#### 5. Bivariate
-#### 6. Conclusions
+##### 1. Data Sourcing
+##### 2. Data Cleaning and Transformations
+##### 3. Univariate Analysis
+##### 4. Bivariate
+##### 5. Conclusions
 
 ## Conclusions
 ##### 1. We can see that almost 17% loans are charged off
